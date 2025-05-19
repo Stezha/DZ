@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace pz1.Properties
+namespace dz2.Properties
 {
 
 
